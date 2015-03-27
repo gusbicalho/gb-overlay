@@ -1,7 +1,5 @@
 # gb-overlay
 
-Small directive that adds an overlay over its parent element.
-
 The content of the directive will be transcluded into a centered div inside the overlay.
 
 Because of how CSS positioning works, the overlay will actually show over the first positioned element above it in the DOM.
@@ -16,7 +14,7 @@ Example:
     condition="loading">
     <h3>This will show in the middle of the overlay</h3>
   </gb-overlay>
-  <p>This will show under very think red overlay whenever $scope.loading is truthy.</p>
+  <p>This will show under very thick red overlay whenever $scope.loading is truthy.</p>
 </div>
 ```
 

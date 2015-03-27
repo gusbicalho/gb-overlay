@@ -1,7 +1,7 @@
 {
   "name": "gb-overlay",
-  "version": "1.0.1",
-  "description": "Angular directive that adds an overlay over an element when a condition is true",
+  "version": "1.0.2",
+  "description": "Angular directive that adds an overlay over an element when a condition is true.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
