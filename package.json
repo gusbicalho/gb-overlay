@@ -11,6 +11,18 @@
     "directive",
     "overlay"
   ],
-  "author": "gusbicalho",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gusbicalho/gb-overlay.git"
+  },
+  "author": {
+    "name": "Gustavo Bicalho",
+    "email": "gusbicalho@gmail.com",
+    "url": "http://gusbicalho.com.br"
+  },
+  "_npmUser": {
+    "name": "gusbicalho",
+    "email": "gusbicalho@gmail.com"
+  },
   "license": "MIT"
 }
